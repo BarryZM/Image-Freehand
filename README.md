@@ -1,3 +1,7 @@
+需要安装的Python库
+pip install Pillow(已经包含PIL)
+pip install Numpy
+### 转载:
 # 用Python实现图像的手绘化
 
 * 对于不同的图片可以通过修改深度值depth，光照的俯视角el和方位角az以获得最好的效果
